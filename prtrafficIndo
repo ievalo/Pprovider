@@ -1,0 +1,9 @@
+proxies:
+  - name: id-1.test3.net
+    server: id-1.test3.net
+    port: 443
+    type: trojan
+    password: 559fdfe0-9c02-11ee-b255-1239d0255272
+    skip-cert-verify: true
+    sni: web.whatsapp.com
+    udp: true
